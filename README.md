@@ -1,1 +1,3 @@
-# anomaly-detection-with-natural-language-processing
+# Anomaly Detection
+
+## A Natural Language Processing technique using LSTM
